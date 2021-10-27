@@ -1,0 +1,3 @@
+To compile .cl(COOL) files into assembly, use ./mycoolc INPUT.cl
+To run MIPS assemply files, use ./run_spim OUTPUT.s
+
